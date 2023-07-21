@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Container{width: 700px;}
+
+.Container img{
+    float: left;
+    margin-left: 20px;
+    
+}
+
+.Container p{
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 20px;
+    margin-bottom: 200px;
+}
+
+.sub-container img{
+    float: right;
+    margin-right: 20px;
+}
+
+.sub-container p{
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-bottom: 150px;
+    text-align: left;
+}
+
+.sub-image img{
+    float: left;
+    margin-left: 20px;
+    
+}
+
+.sub-image p{
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 20px;
+    margin-bottom: 250px;
+}
+
+.sub-image2 img{
+    float: right;
+    margin-right: 20px;
+}
+
+.sub-image2 p{
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-bottom: 150px;
+}
+
+.sub-image3 img{
+    float: left;
+    margin-left: 20px;
+}
+
+.sub-image3 p{
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 20px;
+    margin-bottom: 180px;
+}
+
+.sub-image4 img{
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.sub-image4 p{
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-bottom: 120px;
+}
+
+.sub-image5 img{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.sub-image5 p{
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 20px;
+    margin-bottom: 40px;
+}
+
+.sub-image6 img{
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.sub-image6 p{
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 20px;
+}
+
+.gosto p{
+    text-align: center;
+    font-size: 25px;
+}
+
+.title h1{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.sub-title h2{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+body{
+    background-image: linear-gradient(to left, #ff02c0, white );
+}
